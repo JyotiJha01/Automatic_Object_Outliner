@@ -16,7 +16,7 @@ Command to install libraries:
 3. Replace the image_path variable with the path to the image you want to process.
 4. Run the script - "python object_outliner.py"
 
-## Instructions
+## Instructions:
 1. The script loads the specified image and resizes it to the specified width while maintaining the aspect ratio.
 2. The user is prompted to draw a rectangle around the object of interest.
 3. The script then removes the background from the selected region using the rembg library.
